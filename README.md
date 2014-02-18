@@ -1,4 +1,4 @@
-## Run
+## Execute
     npm install
     node app.js
 ## References
