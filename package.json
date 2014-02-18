@@ -1,0 +1,19 @@
+{
+  "name": "example-passport",
+  "version": "0.0.1",
+  "description": "example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luizstacio/example-passport.git"
+  },
+  "author": "luizstacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizstacio/example-passport/issues"
+  },
+  "homepage": "https://github.com/luizstacio/example-passport"
+}
